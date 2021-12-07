@@ -1,0 +1,32 @@
+.user {
+  width: 100vw;
+  height: 100vh;
+  display: inline;
+}
+
+.user__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 10px;
+  width: 450px;
+  height: 200px;
+  border-radius: 15px;
+  border: 2px solid rgb(139, 136, 136);
+  grid-template-columns: auto;
+  margin-bottom: 30px;
+  margin-left: 550px;
+}
+span {
+  font-weight: bold;
+}
+
+.user__card {
+  margin-left: 30px;
+  display: block;
+}
+button {
+  background-color: rgb(192, 192, 240);
+  border-radius: 5px;
+  cursor: pointer;
+}

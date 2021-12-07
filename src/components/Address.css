@@ -1,0 +1,30 @@
+.add__container {
+  background-color: rgb(119, 119, 241);
+  color: black;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.add__street {
+  line-height: 10px;
+  padding: 3px;
+}
+
+.add__country {
+  padding: 3px;
+  line-height: 10px;
+}
+.add__zip {
+  padding: 3px;
+  line-height: 10px;
+}
+.add__street input {
+  margin-left: 25px;
+}
+
+.add__country input {
+  margin-left: 9px;
+}
+.add__zip input {
+  margin-left: 46px;
+}
